@@ -1,2 +1,2 @@
 def sumar(a, b):
-    return 0  
+    return a + b
