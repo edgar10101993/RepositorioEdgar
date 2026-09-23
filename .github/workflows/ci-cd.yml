@@ -57,4 +57,4 @@ jobs:
         context: .
         push: true
         tags: |
-          ghcr.io/${{ github.repository }}:latest
+          ghcr.io/edgar10101993/repositorioedgar:latest
